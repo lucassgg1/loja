@@ -14,7 +14,7 @@ A tela de login permite que o usuário se autentique no sistema com:
 - **Nome de usuário**
 - **Senha**
 
-![Tela de Login](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telalogin.png)
+![Tela de Login](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telalogin.png)
 
 ---
 
@@ -49,7 +49,7 @@ A tela para editar e remover produtos permite que você:
 - **Edite** as informações de um produto cadastrado.
 - **Remova** produtos do sistema.
 
-![Tela de Remover e Editar Produtos](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarprodutos.png)
+![Tela de Remover e Editar Produtos](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarprodutos.png)
 
 ---
 
