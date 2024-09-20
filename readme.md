@@ -27,7 +27,7 @@ A tela de cadastro de usuários permite a criação de novos usuários com os se
 - **E-mail**
 - **Telefone**
 
-![Tela de Cadastro de Usuários](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastrousuarios.png)
+![Tela de Cadastro de Usuários](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastrousuarios.png)
 
 ---
 
@@ -39,7 +39,7 @@ A tela de cadastro de produtos permite a inserção de novos produtos no sistema
 - **Categoria**
 - **Quantidade**
 
-![Tela de Cadastro de Produtos](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastroprodutos.png)
+![Tela de Cadastro de Produtos](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastroprodutos.png)
 
 ---
 
@@ -59,7 +59,7 @@ Esta funcionalidade permite que administradores:
 - **Editem** dados de usuários cadastrados.
 - **Removam** usuários.
 
-![Tela de Remover e Editar Usuários](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarusuarios.png)
+![Tela de Remover e Editar Usuários](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarusuarios.png)
 
 ---
 
@@ -71,6 +71,6 @@ A tela de relatórios permite que o usuário visualize dados sobre as vendas e o
 - **Estoque de Produtos**
 - **Produtos mais Vendidos**
 
-![Tela de Relatório](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telarelatorio.png)
+![Tela de Relatório](loja/Imagens/telas_high_fidelity(alta_fidelidade)/telarelatorio.png)
 
 ---
