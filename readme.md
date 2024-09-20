@@ -14,7 +14,7 @@ A tela de login permite que o usuário se autentique no sistema com:
 - **Nome de usuário**
 - **Senha**
 
-![Tela de Login](loja/loja/Imagens/Telas High Fidelity (Alta Fidelidade)/Tela Login.png)
+![Tela de Login](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telalogin.png)
 
 ---
 
@@ -27,7 +27,7 @@ A tela de cadastro de usuários permite a criação de novos usuários com os se
 - **E-mail**
 - **Telefone**
 
-![Tela Cadastro de Usuários](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Cadastro%20Usuarios.png)
+![Tela de Cadastro de Usuários](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastrousuarios.png)
 
 ---
 
@@ -39,7 +39,7 @@ A tela de cadastro de produtos permite a inserção de novos produtos no sistema
 - **Categoria**
 - **Quantidade**
 
-![Tela Cadastro de Produtos](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Cadastro%20Produtos.png)
+![Tela de Cadastro de Produtos](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telacadastroprodutos.png)
 
 ---
 
@@ -49,7 +49,7 @@ A tela para editar e remover produtos permite que você:
 - **Edite** as informações de um produto cadastrado.
 - **Remova** produtos do sistema.
 
-![Tela Remover e Editar Produtos](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Remover%20e%20Editar%20Produtos.png)
+![Tela de Remover e Editar Produtos](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarprodutos.png)
 
 ---
 
@@ -59,7 +59,7 @@ Esta funcionalidade permite que administradores:
 - **Editem** dados de usuários cadastrados.
 - **Removam** usuários.
 
-![Tela Remover e Editar Usuários](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Remover%20e%20Editar%20Usuarios.png)
+![Tela de Remover e Editar Usuários](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telaremovereditarusuarios.png)
 
 ---
 
@@ -71,6 +71,6 @@ A tela de relatórios permite que o usuário visualize dados sobre as vendas e o
 - **Estoque de Produtos**
 - **Produtos mais Vendidos**
 
-![Tela Relatório](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Relatorio.png)
+![Tela de Relatório](loja/loja/Imagens/telas_high_fidelity(alta_fidelidade)/telarelatorio.png)
 
 ---
