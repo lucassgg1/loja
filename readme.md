@@ -14,7 +14,7 @@ A tela de login permite que o usuário se autentique no sistema com:
 - **Nome de usuário**
 - **Senha**
 
-![Tela de Login](loja/loja/Imagens/Telas%20High%20Fidelity%20(Alta%20Fidelidade)/Tela%20Login.png)
+![Tela de Login](loja/loja/Imagens/Telas High Fidelity (Alta Fidelidade)/Tela Login.png)
 
 ---
 
