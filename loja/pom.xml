@@ -1,0 +1,81 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>br.com.dlei</groupId>
+	<artifactId>dlei-4cats-dev</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+
+	<properties>
+		<!-- Resolve problema da mensagem [has no explicit encoding set] -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
+	</properties>
+
+	<dependencies>
+		<!-- Dependencia do Servlet -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<!-- Dependencia do jsp -->
+		<dependency>
+			<groupId>javax.servlet.jsp</groupId>
+			<artifactId>javax.servlet.jsp-api</artifactId>
+			<version>2.3.3</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<!-- Para uso das taglib
+		<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> -->
+		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+
+		<!-- Dependencia do JDBC do postgresql -->
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>42.5.0</version>
+		</dependency>
+
+		<!-- Dependencia do Azure -->
+		<dependency>
+			<groupId>com.azure</groupId>
+			<artifactId>azure-identity-extensions</artifactId>
+			<version>1.1.5</version>
+		</dependency>
+
+		<!-- Dependencia para gerenciar o pool de conexão -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-dbcp2</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+
+		<!-- Dependencia para criptografia das senhas -->
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.15</version>
+		</dependency>
+	</dependencies>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<release>21</release>
+				</configuration>
+			</plugin>			
+
+		</plugins>
+	</build>
+</project>
