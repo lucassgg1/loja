@@ -1,0 +1,206 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/*RESET - Inicio*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+	blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn,
+	em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+	b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas,
+	details, embed, figure, figcaption, footer, header, hgroup, menu, nav,
+	output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup,
+	menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+	background-color: #f5f5f5;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+/*RESET - Fim*/
+
+
+.div-container {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+#logo.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+.nav-bar-right{
+	margin-top: 0.3rem;
+	color: #ffffff;
+}
+
+.navbar-brand {
+	padding-left: 0.5rem;
+}
+
+.navbar-collapse {
+	margin-left: 0.5rem;
+}
+
+.pcoded-mtext-nav {
+	margin-top: 3px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled),
+	button:not(:disabled) {
+	margin-right: 0.5rem;
+	cursor: pointer;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-weight: 500;
+	line-height: 1.2
+}
+
+.h2-index {
+	font-family: system-ui, -apple-system, "Segoe UI", Roboto,
+		"Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+		"Noto Color Emoji", sans-serif;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.button-margin-top {
+	margin-top: 2rem;
+}
+
+.button-margin-top-principal {
+	margin-top: 1rem;
+}
+
+.button-card-home {
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+}
+
+.button-add-list-prod {
+	margin-top: 1.5rem;
+}
+
+.btn-close {
+	box-sizing: content-box;
+	width: 1em;
+	height: 1em;
+	padding: .25em .25em;
+	color: #000;
+	background: transparent
+		url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e")
+		center/1em auto no-repeat;
+	border: 0;
+	border-radius: .25rem;
+	opacity: .5
+}
+
+.alert {
+	position: relative;
+	padding: 1rem 1rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem
+}
+
+.alert-danger {
+	color: #842029;
+	background-color: #f8d7da;
+	border-color: #f5c2c7
+}
+
+.alert-dismissible {
+	padding-right: 3rem
+}
+
+.alert-dismissible .btn-close {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 2;
+	padding: 1.25rem 1rem
+}
+
+.card {
+    width: 100%; /* Faz com que o card ocupe 100% da largura do contêiner pai */
+    margin-bottom: 1rem; /* Espaçamento inferior entre os cards */
+}
+
+.cards-image {
+    width: 100%; /* Imagem ocupa 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Centraliza a imagem */
+}
+
+.card-col-sm-4_home{
+	margin-bottom: 1rem;
+}
+
+.cards-home {
+	text-align: center;
+	align-content: center;	
+}
+
+.cards-principal{
+	color: #212529;
+}
+
+
+
+.dropdown-menu-nav {
+	line-height: 2rem;
+}
+
+.footer-text {
+	color: #ffffff;
+}
+
+.footer-text-link {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.footer-text-link:hover {
+	text-decoration: none;
+	color: #ff3600;
+}
+
+.card {
+    width: 100%; /* Faz com que o card ocupe 100% da largura do contêiner pai */
+    margin-bottom: 1rem; /* Espaçamento inferior entre os cards */
+}
+
+.cards-image {
+    width: 100%; /* Imagem ocupa 100% da largura do contêiner pai */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Centraliza a imagem */
+}
+
+.img-responsive {
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner pai */
+    height: auto; /* Ajusta a altura para manter a proporção */
+}
+

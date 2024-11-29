@@ -1,0 +1,18 @@
+/*Form Cadastro Users - Início*/
+.form-cad-user-msg{
+	margin-top: 1rem;
+}
+.imagemUser{	
+	width: 64px;
+}
+.buttonImagemUser{
+	margin-left: 1.2rem;
+	margin-top: 0.5rem;
+	line-height: 2;	
+}
+/*Form Cadastro Users - Fim*/
+
+
+.title-form{
+	margin-bottom: 1rem;
+}
