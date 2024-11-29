@@ -1,4 +1,4 @@
-# Sistema de Cadastro e Venda de Produtos de Materiais de Construção
+# Sistema de Cadastro e Gestão de Estoque de Materiais de Construção
 
 ## Descrição
 
