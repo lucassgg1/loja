@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este sistema foi desenvolvido para gerenciar o cadastro de usuários e produtos, além de controlar a venda de materiais de construção.
+Este sistema foi desenvolvido para gerenciar o cadastro de usuários e produtos, além de controlar a solicitação de orçamentos solicitados.
 
 ---
 
